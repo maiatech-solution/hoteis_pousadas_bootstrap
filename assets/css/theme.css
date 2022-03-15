@@ -18,6 +18,7 @@
     --bg-white:         #FFFFFF;
     --bg-yellow:        #FCB705;
     --bg-roxo:          #E9008C;
+    --bg-roxo-hover:    #b30a6f;
 }
 html, body {
     font-size: 16px;
