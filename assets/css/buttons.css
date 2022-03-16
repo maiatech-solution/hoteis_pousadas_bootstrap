@@ -29,3 +29,36 @@
     border-radius: 0px;
     outline: none;
 }
+
+.btn-roxo {
+    color: var(--bg-white);
+    background-color: var(--bg-roxo);
+    outline: none;
+    box-shadow: none;
+    font-size: 1rem;
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+}
+.btn-roxo:hover {
+    color: var(--bg-white);
+    background-color: var(--bg-roxo-hover);
+}
+
+
+.btn-roxo-outline{
+    color: var(--bg-roxo);
+    background-color: transparent;
+    outline: 1px solid var(--bg-roxo);
+    box-shadow: none;
+    font-size: 1rem;
+    font-family: 'Ruda', sans-serif;
+    font-weight: 400;
+    border-radius: 0px;
+}
+
+.btn-roxo-outline:hover{
+    color: var(--bg-white);
+    background-color: var(--bg-roxo);
+    border-radius: 0px;
+    outline: none;
+}
