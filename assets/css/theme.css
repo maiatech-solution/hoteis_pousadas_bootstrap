@@ -9,6 +9,7 @@
 @import './color.css';
 @import './carousel.css';
 @import './icons.css';
+@import './utils.css';
 
 /* Configurações de cores */
 :root {
