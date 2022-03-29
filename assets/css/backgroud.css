@@ -6,3 +6,11 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.background-banner-seach{
+    width: 100%;
+    height: 80vh;
+    background-image: url('../img/banners/banner-resultado.jpeg');
+    background-position: top;
+    background-size: cover;
+}
